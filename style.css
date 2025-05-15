@@ -1,0 +1,47 @@
+/* style.css */
+
+QWidget {
+    background-color: BACKGROUND_COLOR;
+    color: TEXT_COLOR;
+    font-family: Arial;
+    font-size: 14px;
+}
+
+QTextEdit {
+    background-color: TEXTEDIT_BACKGROUND;
+    color: TEXT_COLOR;
+    border: 1px solid #777;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+QPushButton {
+    background-color: BUTTON_BACKGROUND;
+    color: TEXT_COLOR;
+    border: none;
+    border-radius: 5px;
+    padding: 8px 16px;
+    font-weight: bold;
+}
+
+QPushButton:hover {
+    background-color: BUTTON_HOVER;
+}
+
+QComboBox {
+    background-color: BUTTON_BACKGROUND;
+    color: TEXT_COLOR;
+    border: 1px solid #777;
+    border-radius: 5px;
+    padding: 8px;
+}
+
+QComboBox::drop-down {
+    border: none;
+}
+
+QComboBox::down-arrow {
+    image: url(icons/down_arrow.png); /* Down_Arrow Menu icône */
+    width: 12px;
+    height: 12px;
+}
