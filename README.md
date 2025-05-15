@@ -14,6 +14,7 @@ Bienvenue sur la page du projet **Babouche Trad**, un projet Python fais par mes
 ---
 
 ⚠️ Le projet n'as pas été finalisé suite à un manque de temps. ⚠️
+
 Merci d'avoir pris le temps de découvrir mon projet ! J'espère qu'il vous impressionnera autant que j'ai pris plaisir à le développer. 🚀
 
 ![image](https://github.com/user-attachments/assets/324c1103-5344-43da-ab07-45d750b3a10e)
